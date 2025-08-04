@@ -1,3 +1,24 @@
-This Simple Calculator CLI App is a Python-based command-line tool designed to perform basic arithmetic calculations. The application emphasizes fundamental programming concepts such as functions, loops, and conditionals, making it an excellent starting project for beginners learning Python programming or those understanding how to build interactive CLI applications.
+Simple Calculator CLI App
+This is a basic command-line calculator application written in Python. It performs the four main arithmetic operations: addition, subtraction, multiplication, and division.
 
-Functional OverviewThis Simple Calculator CLI App is a Python-based command-line tool designed to perform basic arithmetic calculations. The application emphasizes fundamental programming concepts such as functions, loops, and conditionals, making it an excellent starting project for beginners learning Python programming or those understanding how to build interactive CLI applications.
+Features
+Uses functions for each operation (+, -, *, /).
+
+Takes user input for operation choice and numbers.
+
+Loops continuously until the user chooses to exit.
+
+Handles division by zero with an error message.
+
+Displays results after each calculation.
+
+How to Use
+Run the Python script.
+
+Choose an operation by entering a number between 1 and 5.
+
+Enter two numbers when prompted.
+
+View the result displayed on the screen.
+
+Repeat or choose option 5 to exit the program.
