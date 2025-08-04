@@ -1,1 +1,3 @@
-# Elevatelab-intenship-Task1
+This Simple Calculator CLI App is a Python-based command-line tool designed to perform basic arithmetic calculations. The application emphasizes fundamental programming concepts such as functions, loops, and conditionals, making it an excellent starting project for beginners learning Python programming or those understanding how to build interactive CLI applications.
+
+Functional OverviewThis Simple Calculator CLI App is a Python-based command-line tool designed to perform basic arithmetic calculations. The application emphasizes fundamental programming concepts such as functions, loops, and conditionals, making it an excellent starting project for beginners learning Python programming or those understanding how to build interactive CLI applications.
